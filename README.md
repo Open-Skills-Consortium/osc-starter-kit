@@ -24,3 +24,5 @@ We’re preparing for an official September launch and invite you to:
 - Developers: Shape and adopt open skill APIs
 
 ✅ Follow our page, read our pre-launch insights, and be part of defining the global language of skills.
+
+test
